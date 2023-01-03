@@ -1,0 +1,12 @@
+.loading {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loading > p {
+  font-size: 35px;
+  font-weight: 450;
+  letter-spacing: 7px;
+}
